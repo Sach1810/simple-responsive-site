@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ionicons": "^3.0.0"
+    "ionicons": "^3.0.0",
+    "jquery": "^3.0.0",
+    "waypoints": "^4.0.0"
   }
 }
