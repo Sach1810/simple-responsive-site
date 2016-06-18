@@ -271,6 +271,16 @@ header {
     color: #555;
 }
 
+/*Mobile nav*/
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    font-size: 200%;
+    color: white;
+    display: none;
+}
+
 /* --------------------------------------------------*/
 /*FEATURES*/
 /* --------------------------------------------------*/
